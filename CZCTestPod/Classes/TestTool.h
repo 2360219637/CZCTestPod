@@ -8,10 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-NS_ASSUME_NONNULL_BEGIN
-
+//测试2
 @interface TestTool : NSObject
 
 @end
-
-NS_ASSUME_NONNULL_END
