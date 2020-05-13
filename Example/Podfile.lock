@@ -1,0 +1,16 @@
+PODS:
+  - CZCTestPod (0.0.1)
+
+DEPENDENCIES:
+  - CZCTestPod (from `../`)
+
+EXTERNAL SOURCES:
+  CZCTestPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CZCTestPod: a03b7882e3c1ef95373b741be5b92c1ee2bf0a6a
+
+PODFILE CHECKSUM: f37c385b3c24449db8d1612af006a8bf72dd029d
+
+COCOAPODS: 1.9.1
